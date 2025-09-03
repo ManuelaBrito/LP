@@ -1,6 +1,6 @@
 # 📖 **Linguagem de Programação – Repositório Acadêmico**
 
-💡 *Organizando conhecimento, práticas e experiências em desenvolvimento de software.*
+💡 *Organizando conhecimento, práticas e experiências em desenvolvimento de linguagens de programação.*
 
 ## 📜 **Sobre o Projeto**
 Este repositório foi criado para **documentar e compartilhar** atividades e conteúdos da disciplina de **Linguagem de Programação** ,ministrada pelo **Professora Adriana Jacinto**.  
