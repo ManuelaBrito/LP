@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: precipitacao-api
+  
+server:
+  port: 8080
+  error:
+    include-message: always
+
+logging:
+  level:
+    com.example.precipitacao: DEBUG
+    org.springframework.web: INFO
+
+# Configuração para arquivos estáticos
+spring:
+  web:
+    resources:
+      static-locations: classpath:/static/
